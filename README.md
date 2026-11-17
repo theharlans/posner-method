@@ -33,7 +33,7 @@ Plugin skills are namespaced, so this version runs as `/posner:posner`.
 
 **Option 3. Claude app (claude.ai, desktop, mobile)**
 
-1. Download `posner-skill.zip` from this repo's Releases page.
+1. Download [`posner-skill.zip`](https://github.com/theharlans/posner-method/raw/main/posner-skill.zip) from this repo.
 2. In Claude, open Customize, then Skills.
 3. Click "+", then "Create skill", then "Upload a skill", and choose the ZIP.
 4. Code execution and file creation must be turned on in your settings.
