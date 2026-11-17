@@ -1,0 +1,11 @@
+{
+  "name": "posner",
+  "description": "Legal analysis in the style of the late Judge Richard A. Posner's opinions and scholarship (law and economics, pragmatism, plain writing). Not affiliated with or endorsed by Judge Posner or his estate. Not legal advice.",
+  "version": "1.1.0",
+  "author": {
+    "name": "Jim Harlan"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/theharlans/posner-method",
+  "repository": "https://github.com/theharlans/posner-method"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "theharlans",
+  "description": "Claude skills by Jim Harlan",
+  "owner": {
+    "name": "Jim Harlan"
+  },
+  "plugins": [
+    {
+      "name": "posner",
+      "source": "./plugins/posner",
+      "description": "Legal analysis in the style of the late Judge Richard A. Posner's opinions and law and economics scholarship"
+    }
+  ]
+}
